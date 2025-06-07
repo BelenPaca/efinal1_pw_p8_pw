@@ -1,4 +1,5 @@
 <template>
+    <h1>Juego POKEMON </h1>
   <div>
     <Componente/>
   </div>
